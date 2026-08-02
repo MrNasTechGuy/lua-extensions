@@ -1,0 +1,8 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ScratchEverywhere/seec/refs/heads/main/schema.json",
+  "core": false,
+  "id": "Extras",
+  "name": "Extra blocks",
+  "description": "adds an bunch of extras for compatibility",
+  "permissions": ["input"]
+}
