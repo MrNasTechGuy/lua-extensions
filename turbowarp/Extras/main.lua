@@ -1,0 +1,3 @@
+function Isturbowarp{
+    return false
+}
